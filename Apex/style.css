@@ -1,0 +1,8 @@
+.top-nav{
+    display: flex;
+    list-style: none;
+    text-transform: none;
+    justify-content: right;
+    color: black;
+    align-items:spacebetween;
+}
